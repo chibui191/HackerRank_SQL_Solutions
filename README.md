@@ -11,7 +11,7 @@ Status | HackerRank Description | Solution
 :white_check_mark: | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [MySQL](./Advanced%20Join/placements.sql)
 :white_check_mark: | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [MySQL](./Advanced%20Join/symmetric_pairs.sql)
 :white_check_mark: | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [MySQL](./Advanced%20Join/interviews.sql)
-:white_large_square: | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) 
+:white_check_mark: | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [MySQL](./Advanced%20Join/15_days_sql.sql)
 
 ### Advanced Select
 Status | HackerRank Description | Solution
